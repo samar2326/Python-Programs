@@ -1,4 +1,4 @@
-""" Program 4: WAP to display the Fibonacci sequence up to n-th term where n is provided by the user"""
+""" WAP to display the Fibonacci sequence up to n-th term where n is provided by the user"""
 
 n = int(input("Nos of terms: "))
 n1 = 0
