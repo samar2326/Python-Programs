@@ -1,5 +1,5 @@
 """
-Program 15 :WAP to demonstrate working of classes and objects
+WAP to demonstrate working of classes and objects
 """
 class Student:
     
