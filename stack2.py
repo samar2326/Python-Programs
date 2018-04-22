@@ -1,3 +1,4 @@
+"""WAP to impliment stack"""
 stack=["Sahil","ram","Samar","Prashant"]
 print("stack:",stack)
 stack.append("PAlak")
