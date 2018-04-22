@@ -1,4 +1,4 @@
-"""Program 6.b: WAP to compute the frequency of the words from the input. 
+"""WAP to compute the frequency of the words from the input. 
 The output should output after sorting the key alphanumerically."""
 freq = {}   
 line = input("enter the words :")
