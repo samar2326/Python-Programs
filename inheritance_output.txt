@@ -1,0 +1,3 @@
+Using class 'person' : Prashant Kumar
+Inheritance from class 'person' : SAhil Garg, 2326
+

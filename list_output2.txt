@@ -1,0 +1,9 @@
+n
+d
+new list: ['n', 'v', 'd', 'm', 'w', 'n']
+old list: ['n', 'v', 'd', 'm', 'w', 'n']
+['n', 'v', 'd', 'm', 'w', 'n', 7]
+['n', 'v', 'd', 'm', 'w', 'n', 7, 4, 14, 17]
+the count of n is: 2
+['n', 'v', 'd', 'w', 'n', 7, 4, 14, 17]
+the index of n is: 0

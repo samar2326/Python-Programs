@@ -1,0 +1,5 @@
+New_stack: ['hello', 'fruit', 'flower', 'Mango']
+Deleted_item: Mango
+Deleted_item: flower
+New_stack: ['hello', 'fruit']
+

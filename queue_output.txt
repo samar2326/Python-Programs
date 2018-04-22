@@ -1,0 +1,12 @@
+queue: ['cat', 'dog', 'eagle', 'fan']
+New_queue: ['apple', 'boy', 'cat', 'dog', 'eagle', 'fan']
+Deleted item: fan
+['apple', 'boy', 'cat', 'dog', 'eagle']
+Deleted item: eagle
+['apple', 'boy', 'cat', 'dog']
+deque(['apple', 'banana', 'cucumber'])
+deque(['apple', 'banana', 'cucumber', 'rose', 'lily'])
+apple
+banana
+deque(['cucumber', 'rose', 'lily'])
+

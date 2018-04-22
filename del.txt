@@ -1,0 +1,39 @@
+RCS454: PYTHON LANGUAGE PROGRAMMING LAB
+Write a Python program to: -
+1. Demonstrate the working of ‘id’ and ‘type’ functions
+2. To find all prime numbers within a given range.
+3. To print ‘n terms of Fibonacci series using iteration.
+4. To demonstrate use of slicing in string
+5.
+a. To add 'ing' at the end of a given string (length should be at least 3). If the
+given string already ends with 'ing' then add 'ly' instead. If the string length of
+the given string is less than 3, leave it unchanged.
+Sample String : 'abc'
+Expected Result : 'abcing'
+Sample String : 'string'
+Expected Result : 'stringly'
+b. To get a string from a given string where all occurrences of its first char have
+been changed to '$', except the first char itself.
+6.
+a. To compute the frequency of the words from the input. The output should
+output after sorting the key alphanumerically.
+b. Write a program that accepts a comma separated sequence of words as input
+and prints the words in a comma-separated sequence after sorting them
+alphabetically.
+7. Write a program that accepts a sequence of whitespace separated words as input and
+prints the words after removing all duplicate words and sorting them
+alphanumerically.
+8. To demonstrate use of list & related functions
+9. To demonstrate use of Dictionary& related functions
+10. To demonstrate use of tuple, set& related functions
+11. To implement stack using list
+12. To implement queue using list
+13. To read and write from a file
+14. To copy a file
+15. To demonstrate working of classes and objects
+16. To demonstrate class method & static method
+17. To demonstrate constructors
+18. To demonstrate inheritance
+19. To demonstrate aggregation/composition
+
+

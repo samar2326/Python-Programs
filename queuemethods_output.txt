@@ -1,0 +1,12 @@
+Inserting elements in queue:
+('Queue:', ['mango'])
+('Queue:', ['banana', 'mango'])
+('Queue:', ['grapes', 'banana', 'mango'])
+('Queue:', ['orange', 'grapes', 'banana', 'mango'])
+('Queue:', ['guava', 'orange', 'grapes', 'banana', 'mango'])
+Deleting elements in queue:
+('Deleted item:', 'mango')
+('Queue:', ['guava', 'orange', 'grapes', 'banana'])
+('Deleted item:', 'banana')
+('Queue:', ['guava', 'orange', 'grapes'])
+

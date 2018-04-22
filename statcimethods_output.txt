@@ -1,0 +1,8 @@
+Stack: ['sita']
+Stack: ['sita', 'gita']
+Stack: ['sita', 'gita', 'ram']
+Stack: ['sita', 'gita', 'ram', 'shyam']
+Deleted_item: shyam
+Stack: ['sita', 'gita', 'ram']
+Deleted_item: ram
+Stack: ['sita', 'gita']

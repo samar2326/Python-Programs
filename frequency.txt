@@ -1,0 +1,5 @@
+enter the words :hi he hello he he hi samar hello samar
+he:3
+hello:2
+hi:2
+samar:2

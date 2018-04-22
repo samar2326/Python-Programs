@@ -1,0 +1,7 @@
+{'Course': 'Bachelor of Technology', 'Name': 'Prashnat kumar', 'Roll no': '1613313069', 'Branch': 'I.T'}
+New dictionary is : {'Course': 'Bachelor of Technology', 'Name': 'Prashnat kumar', 'Roll no': '1613313069', 'Branch': 'I.T'}
+value: dict_items([('Course', 'Bachelor of Technology'), ('Name', 'Prashnat kumar'), ('Roll no', '1613313069'), ('Branch', 'I.T')])
+Start len: 4
+End len: 0
+{}
+

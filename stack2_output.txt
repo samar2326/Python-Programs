@@ -1,0 +1,7 @@
+stack: ['Sahil', 'ram', 'Samar', 'Prashant']
+New_stack ['Sahil', 'ram', 'Samar', 'Prashant', 'PAlak', 'Sandeepa']
+Deleted item: Sandeepa
+['Sahil', 'ram', 'Samar', 'Prashant', 'PAlak']
+Deleted item: PAlak
+['Sahil', 'ram', 'Samar', 'Prashant']
+

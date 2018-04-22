@@ -1,0 +1,5 @@
+New_stack: ['radha', 'mahabharta', 'arjuna', 'karna', 'ramayana']
+Deleted item: ramayana
+Deleted item: karna
+New_stack: ['radha', 'mahabharta', 'arjuna']
+
