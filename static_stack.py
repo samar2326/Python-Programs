@@ -1,3 +1,6 @@
+"""
+Wap to impliment stack
+ """
 class stack:
   def __init__(self):
     self.items = []
