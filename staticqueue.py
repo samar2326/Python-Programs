@@ -1,3 +1,4 @@
+"""Wap to impliment queue """
 class queue:
   def __init__(self):
     self.items = []
