@@ -1,3 +1,6 @@
+"""
+Wap to demonstrate constructor
+"""
 class student:
     name = ""
  
