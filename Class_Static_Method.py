@@ -1,5 +1,5 @@
 """ 
-Program 16: WAP to demonstrate class method & static method""" 
+WAP to demonstrate class method & static method""" 
 
 # use of class method and static method.
 from datetime import date
