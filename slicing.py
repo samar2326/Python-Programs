@@ -1,4 +1,4 @@
-""" Program 3: WAP to demonstratenb using of slicing in string. """
+""" WAP to demonstratenb using of slicing in string. """
 str = "Samar"
 sliceObj = slice(3)
 print(str[sliceObj])
