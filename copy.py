@@ -1,4 +1,5 @@
-# to copy from 1 file to another
+
+""" Wap to copy from 1 file to another"""
 
 from shutil import copyfile
 print("Enter x for exit")
