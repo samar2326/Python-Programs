@@ -1,4 +1,4 @@
-""" Program 8: WAP to demonstrate use of tuple & related functions"""
+""" WAP to demonstrate use of tuple & related functions"""
 tup1=('Samar','Sahil','2326','2305')
 tup2=("r","p","q","s")
 tup3=(1,2,4,6,8,7,8)
